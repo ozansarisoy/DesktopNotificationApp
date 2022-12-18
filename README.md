@@ -8,4 +8,4 @@
 
 
 
-It is a program that can send notifications to your computer.
+* It is a program that can send notifications to your computer.
